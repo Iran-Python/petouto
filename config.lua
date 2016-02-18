@@ -19,7 +19,7 @@ return {
 	},
 	locale = dofile('loc/en.lua'),
 	admins = {
-		[000] = 'name'
+		[119989724] = 'E M C Developer'
 	},
 	blacklist = load_data('blacklist.json'),
 	plugins = {
@@ -63,11 +63,11 @@ return {
 		'nick.lua'
 	},
 	moderation = {
-		realm = -000,
-		realmname = 'Realm name or ident',
+		realm = 116619671,
+		realmname = 'Realm E M C',
 		data = 'moderation.json',
 		admins = {
-			['000'] = 'nickname',
+			['119989724'] = 'E M C Developer',
 		}
 	}
 }
